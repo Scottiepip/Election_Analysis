@@ -44,3 +44,4 @@ The Analysis of election show that:
 
    
 ## Election-Audit Summary
+This script can easily be modified to fit any other types of election audit by just modify the type of the varialesin the sript. For example, we 

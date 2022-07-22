@@ -1,7 +1,8 @@
 # Election_Analysis
 
 ## Project Overview
-A Colorado Board of Elections employee has given your the following tasks to complete  the election  audit of a recent local conf=gressional election.
+A Colorado Board of Elections employee has given your the following tasks to complete  the election  audit of a recent 
+local congressional election.
 
 1. Calculate the total number of votes cast.
 2. Get the vote turn out for each county
@@ -45,3 +46,4 @@ The Analysis of election show that:
    
 ## Election-Audit Summary
 This script can easily be modified to fit any other types of election audit by just modify the type of the varialesin the sript. For example, we 
+use it in a municial election or a district school board election. 

@@ -4,10 +4,13 @@
 A Colorado Board of Elections employee has given your the following tasks to complete  the election  audit of a recent local conf=gressional election.
 
 1. Calculate the total number of votes cast.
-2. Get a complete list of candidates who received votes.
-3. Calculate the total number of votes each candidate received.
-4. Calculate the percentage of votes each candidate won.
-5. Determine the winner of the election base on popular vote.
+2. Get the vote turn out for each county
+3. Calculate the vote percentage for each county of the the total vote count
+4. determine the county witht he highest turnout
+5. Get a complete list of candidates who received votes.
+6. Calculate the total number of votes each candidate received.
+7. Calculate the percentage of votes each candidate won.
+8. Determine the winner of the election base on popular vote.
 
 ## Resources
 - Data Source: election_results.csv
@@ -16,6 +19,16 @@ A Colorado Board of Elections employee has given your the following tasks to com
 ## Summary
 The Analysis of election show that:
 - There were 369,711 votes cast in the election.
+- The counties were:
+    - Jefferson
+    - Denver
+    - Arapahoe
+- The county results were:
+    - Jefferson has 10.5% of the vote and 38,855 of votes.
+    - Denver has 82.8% of the vote and 306,055 votes.
+    - Arapahoe has 6.7% of the vote and 24,801 votes.
+- The Largest county  turnout was:
+    - Denver
 - The candidates were:
     - Charles Casper Stockman
     - Diana Degette
